@@ -21,6 +21,21 @@ const columns = [{
 }, {
   title: '住址',
   dataIndex: 'address',
+}, {
+  title: '住址',
+  dataIndex: 'address',
+}, {
+  title: '住址',
+  dataIndex: 'address',
+}, {
+  title: '住址',
+  dataIndex: 'address',
+}, {
+  title: '住址',
+  dataIndex: 'address',
+}, {
+  title: '住址',
+  dataIndex: 'address',
 }];
 
 const data = [];
