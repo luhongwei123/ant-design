@@ -23,6 +23,9 @@ const columns = [
   { title: '列6', dataIndex: 'address', key: '6', width: 150 },
   { title: '列7', dataIndex: 'address', key: '7', width: 150 },
   { title: '列8', dataIndex: 'address', key: '8', width: 150 },
+  { title: '列8', dataIndex: 'address', key: '8', width: 150 },
+  { title: '列8', dataIndex: 'address', key: '8', width: 150 },{ title: '列8', dataIndex: 'address', key: '8', width: 150 },{ title: '列8', dataIndex: 'address', key: '8', width: 150 },
+  { title: '列8', dataIndex: 'address', key: '8', width: 150 },
   {
     title: '操作',
     key: 'operation',
